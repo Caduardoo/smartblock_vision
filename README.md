@@ -1,0 +1,1 @@
+Real-time color and intensity classification (Red, Green, Blue; Light, Medium, Dark) using HSV segmentation and OpenCV, supporting DVR-IP CCTV cameras, RTSP streams, and generic USB webcams.

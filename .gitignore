@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+captures/
+python-dvr/
+.DS_Store
+EOF
