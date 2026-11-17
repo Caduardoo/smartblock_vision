@@ -19,7 +19,7 @@ git clone https://github.com/OpenIPC/python-dvr
 ## Usage
 
 ```bash
-    python smartblock.py
+python smartblock.py
 ```
 
 Press `q` (or `ESC`) on the video window to stop streaming and optionally export the annotated video and final frame.
