@@ -5,15 +5,15 @@ Real-time color and intensity classification (Red, Green, Blue; Light, Medium, D
 ## Setup
 
 ```bash
-    python3 -m venv .venv
-    source .venv/bin/activate
-    pip install -r requirements.txt
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 ```
 
 (Optional) To use the direct DVR-IP protocol `(option 1)`, clone python-dvr inside the project root:
 
 ```bash
-    git clone https://github.com/OpenIPC/python-dvr
+git clone https://github.com/OpenIPC/python-dvr
 ```
 
 ## Usage
